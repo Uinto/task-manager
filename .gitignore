@@ -6,6 +6,9 @@
 # dotenv files
 .env
 
+# Personal learning notes (kept locally)
+/docs/
+
 # User-specific files
 *.rsuser
 *.suo
